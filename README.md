@@ -16,3 +16,5 @@ fetch test local comment
 fetch 를 테스트해 볼까?
 힘들다....개념 잡기
 vscode의 fetch 메뉴가 작동 하는가?? 
+  
+local 페치 테스트
