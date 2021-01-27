@@ -13,3 +13,5 @@ pull 하기전에 로컬에서 수정하고 push 하면 오류가 남.
 
 로컬에서 수정하기2
 원격에서 수정하기 2
+
+fetch test local comment
