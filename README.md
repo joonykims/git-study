@@ -14,3 +14,4 @@ pull 하기전에 로컬에서 수정하고 push 하면 오류가 남.
 
 fetch test local comment
 fetch 를 테스트해 볼까?
+힘들다....개념 잡기
