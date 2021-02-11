@@ -24,3 +24,10 @@ git 관련 부분은 sublime merge가는 별도 앱을 사용해야 하고 유�
 2. 원인은 모르겠는데 파일 내용을 수정했는데도  git history 에서 변경 사항이 보이지 않는 경우가 있음. vscode 를 재실행하니 변경 사항이 보임.  
 
 또 다른 버그가 있는지 찾아 보자.
+
+## git-study 가져가기
+
+``` bash
+git clone https://github.com/joonykims/git-study.git
+```
+@
